@@ -15,3 +15,9 @@ Adding few more lines
 8. git remote -v (to check if remote repo is connected to)
 9. git push -u(set default remote repo, so that from next time onwards we can type just "git push") origin master
 10. git branch (to show the current branch)
+11. git checkout -b branch-name feature-branch
+12. git diff branchname
+13. git merge feature-readme-instructions
+14. git status
+15. PR(Pull request) from feature branch to master branch
+16.
